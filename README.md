@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dmitry👋
 
-<!--
-**BazhenovDM/BazhenovDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a Junior Python Backend Developer. In general worked with monolitic arthitectures.  
+I lead the [DEAL DUCK](https://github.com/DEAL-DUCK) team.
+
+## How to Contact Me
+
+ <a href="https://t.me/nosik_13">
+     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+ </a>
+ 
+
+## Tech Stack
+- 🐍 Python
+- 🚀 FastAPI / Django
+- 🗄️ SQLAlchemy with PostgreSQL
+- 🔄 Alembic
+- 🌐 HTML, CSS
+- 🐙 Git
+
+## Work Experience
+- Developed web applications using Django and FastAPI.
+- Worked with PostgreSQL databases and SQLAlchemy.
+- Participated in team projects and managed a team.
+
+## Education
+- MAI, Faculty of Computer Science and Applied Mathematics (currently studying).
