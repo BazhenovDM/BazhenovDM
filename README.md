@@ -1,30 +1,13 @@
 # Hi, I'm Dmitry👋
 
-
-
-## About Me
-I'm a Junior Python Backend Developer. In general worked with monolitic arthitectures.  
-I lead the [DEAL DUCK](https://github.com/DEAL-DUCK) team.
-
-## How to Contact Me
-
- <a href="https://t.me/nosik_13">
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
- </a>
- 
-
-## Tech Stack
-- 🐍 Python
-- 🚀 FastAPI / Django
-- 🗄️ SQLAlchemy with PostgreSQL
-- 🔄 Alembic
-- 🌐 HTML, CSS
-- 🐙 Git
-
-## Work Experience
-- Developed web applications using Django and FastAPI.
-- Worked with PostgreSQL databases and SQLAlchemy.
-- Participated in team projects and managed a team.
-
-## Education
-- MAI, Faculty of Computer Science and Applied Mathematics (currently studying).
+<p align="left"><img src="https://komarev.com/ghpvc/?username=BazhenovDM&label=Profile%20views&color=7aed5a&style=flat" alt="BazhenovDM" /> </p>
+<h3> Languages and Tools: </h3>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BazhenovDM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BazhenovDM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BazhenovDM&theme=github_dark&utcOffset=8)
