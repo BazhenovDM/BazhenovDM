@@ -22,6 +22,6 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 	
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BazhenovDM&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BazhenovDM&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BazhenovDM&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BazhenovDM&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BazhenovDM&theme=tokyonight&utcOffset=3&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=BazhenovDM&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
